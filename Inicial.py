@@ -1,5 +1,5 @@
 #A00827097 Emma Gomez Guerra
-#A01633320 José Diego S. LArragiti
+#A01633320 José Diego S. Larragoiti
 #proposito del programa
 import math
 
