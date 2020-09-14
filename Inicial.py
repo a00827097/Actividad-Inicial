@@ -23,7 +23,13 @@ print("medida de un lado del rectángulo")
 l2 = float(input())
 
 #desplegar calculo funcion1
+area = area_rectangulo(l1,l2)
 print(l1, "*", l2, "=", area)
 
+
+
 #desplegar calculo funcion 2
+perimetro = perimetro_rectangulo(l1,l2)
+print(l1, "*2 +", l2, "*2 =", perimetro)
+
 
