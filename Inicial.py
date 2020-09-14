@@ -23,6 +23,7 @@ print("medida de un lado del rectángulo")
 l2 = float(input())
 
 #desplegar calculo funcion1
+print(l1, "*", l2, "=", area)
 
 #desplegar calculo funcion 2
 
