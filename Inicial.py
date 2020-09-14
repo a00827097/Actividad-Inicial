@@ -9,6 +9,9 @@ def area_rectangulo(l1,l2):
     return print('area del rectangulo es: ', area)
 
 #funcion2  calcular perímetro del rectángulo
+def perimetro_rectangulo(l1,l2):
+    perimetro = l1*2 + l2*2
+    return print('el perimetro es: ', perimetro)
 
 
 #instrucciones de accion
